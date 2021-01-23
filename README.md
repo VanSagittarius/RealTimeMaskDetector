@@ -23,8 +23,8 @@ Used technologies:
     - Line 48 – change `VALIDATION_DIR` to local location of test set
   3. Run in order to get model
   4. `RunApp.py`
-    - Line 4 - change `('.../model2-007.model')` location to local location of model
+    - Line 4 - change `('.../model2-007.model')` location to local location of model<br>
     - Line 13 - change `('.../haarcascade_frontalface_default.xml')` location to local location of .xml file
-  5. Open Terminal/Command prompt and do following:
-    - >>> cd `location of RunApp.py`
+  5. Open Terminal/Command prompt and do following:<br>
+    - >>> cd `location of RunApp.py`<br>
     - >>> python RunApp.py
