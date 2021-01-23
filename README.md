@@ -26,5 +26,5 @@ Used technologies:
     - Line 4 - change `('.../model2-007.model')` location to local location of model<br>
     - Line 13 - change `('.../haarcascade_frontalface_default.xml')` location to local location of .xml file
   5. Open Terminal/Command prompt and do following:<br>
-    - >>> cd `location of RunApp.py`<br>
-    - >>> python3 RunApp.py
+    - >>> cd ''location of RunApp.py''<br>
+    - >>> `python3 RunApp.py`
