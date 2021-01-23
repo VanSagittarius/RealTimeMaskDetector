@@ -1,4 +1,4 @@
 # RealTimeMaskDetector
-![](FaceMaskDetection.gif)
+<h>![](FaceMaskDetection.gif)</h>
 
 Live Program detecting if user is wearing mask
