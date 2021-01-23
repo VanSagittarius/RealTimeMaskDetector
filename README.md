@@ -27,4 +27,4 @@ Used technologies:
     - Line 13 - change `('.../haarcascade_frontalface_default.xml')` location to local location of .xml file
   5. Open Terminal/Command prompt and do following:<br>
     - >>> cd `location of RunApp.py`<br>
-    - >>> python RunApp.py
+    - >>> python3 RunApp.py
