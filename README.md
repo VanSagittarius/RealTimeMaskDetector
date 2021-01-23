@@ -18,8 +18,8 @@ Used technologies:
 
   ## How to run
   1. Download dataset from `dataset_link.txt`
-  2. `model.py`
-    - Line 35 – change `TRAINING_DIR` to local location of train set
+  2. `model.py`<br>
+    - Line 35 – change `TRAINING_DIR` to local location of train set<br>
     - Line 48 – change `VALIDATION_DIR` to local location of test set
   3. Run in order to get model
   4. `RunApp.py`
