@@ -1,4 +1,4 @@
-#RealTimeMaskDetector
+# RealTimeMaskDetector
 
 ![](FaceMaskDetection.gif)
 
