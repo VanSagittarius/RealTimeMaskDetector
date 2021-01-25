@@ -19,10 +19,10 @@ Used technologies:
   ## How to run
   1. Download dataset from `dataset_link.txt`
   2. `model.py`<br>
-    - Line 35 – change `TRAINING_DIR` to local location of train set<br>
+    - Line 35 – change `TRAINING_DIR` to local location of train set <br>
     - Line 48 – change `VALIDATION_DIR` to local location of test set
   3. Run in order to get model
-  4. `RunApp.py`
+  4. `RunApp.py`<br>
     - Line 4 - change `('.../model2-007.model')` location to local location of model<br>
     - Line 13 - change `('.../haarcascade_frontalface_default.xml')` location to local location of .xml file
   5. Open Terminal/Command prompt and do following:<br>
