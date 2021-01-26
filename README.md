@@ -6,6 +6,9 @@ Live Program detecting if user is wearing mask.
 
 System is detecting a person and, based on trained images, decides, if mask is worn on face.
 
+Images used from Kaggle dataset:
+https://data-flair.training/blogs/download-face-mask-data/
+
 Used technologies:
   - Python
   - Keras
