@@ -14,6 +14,8 @@ Used technologies:
   - Keras
   - scikit-learn
   - Numpy
+
+![](face_mask_detection_phases.png)
   
 ## *
   - depanding on data, might not work with all colors of masks (in this case, bright colors where used)
